@@ -1,0 +1,48 @@
+MENU_PRINCIPAL=_______Sen Money_______
+1 : Account balance
+2 : Money transfer
+3 : Payment of invoice
+4 : Options;
+
+MENU_FACTURES=_______Payment of invoice_______
+1 : Senelec
+2 : Seneau
+3 : Netflix
+4 : Canal+ ;
+
+MENU_OPTIONS=_______Options_______
+1 : Change secret code;
+
+DEMANDER_CODE=Enter your code:;
+
+DEMANDER_NUMERO_COMPTEUR=Enter your meter number:;
+
+DEMANDER_ACNCIEN_CODE=Enter your old code:;
+
+DEMANDER_NOUVEAU_CODE=Enter your new code:;
+
+RETOURNER_AU_MENU_PRINCIPAL=Do you want to return to the main menu ?
+1:To return to the main menu
+0: To leave;
+
+AU_REVOIR=Goodbye to you;
+
+VOTRE_SOLDE_EST=Your balance is :;
+
+VOTRE_NOUVEAU_CODE=Your new secret code is :;
+
+TRANSFERE_REUSSIE=Successful transfer, new balance :;
+
+PAIEMENT_REUSSI=Payment made successfully, Amount ;
+
+CODE_INCORRECT=Code incorrect !;
+
+CODE_INVALID=Code invalid !;
+
+NUMERO_EXISTE_PAS=This number does not exist!;
+
+NUMERO_DESTINATAIRE=Recipient number :;
+
+MONTANT_TRANSFERE=Transfer amount :;
+
+SOLDE_INSUFISANT=Your balance is insufficient!

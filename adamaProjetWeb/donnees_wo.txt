@@ -1,0 +1,48 @@
+MENU_PRINCIPAL=_______Sen xaaliss_______
+1 : Tolluwaayu ci xaaliss
+2 : Yondé xaaliss
+3 : fayy sa facture
+4 : yénène dioumtouway;
+
+MENU_FACTURES=_______fayy sa facture_______
+1 : Senelec
+2 : Seneau
+3 : Netflix
+4 : Canal+;
+
+MENU_OPTIONS=_______yénéne dioumtouway_______
+1 : Soppil sa code;
+
+DEMANDER_CODE=Dougueuleul sa code :;
+
+DEMANDER_NUMERO_COMPTEUR=Dougueuleul numero compteur bi :;
+
+DEMANDER_ACNCIEN_CODE=Dougueuleul code bu yaggueu bi :;
+
+DEMANDER_NOUVEAU_CODE=code bu bess bi :;
+
+RETOURNER_AU_MENU_PRINCIPAL=Danga beugueu dellou ci  menu principal bi?
+1:Pour dellouwatt ci menu principal bi
+0: Pour guéneu;
+
+AU_REVOIR=jeureudieuf niou fanane ci diammeu;
+
+VOTRE_SOLDE_EST=sa xaaliss mongui tollou ci :;
+
+VOTRE_NOUVEAU_CODE=sa code bu bess bi :;
+
+TRANSFERE_REUSSIE=Yondé bi yeksina,sa xaaliss mongui tollou ci :;
+
+PAIEMENT_REUSSI=fayy nga sa facture, xaaliss mba ngui tollou ci :;
+
+CODE_INCORRECT=Code bi Baxoul !;
+
+CODE_INVALID=Code bi Baxoul !;
+
+NUMERO_EXISTE_PAS= numéro bi Amoul !;
+
+NUMERO_DESTINATAIRE=Dougueuleul numéro kou wara diot xaaliss bi :;
+
+MONTANT_TRANSFERE=xaaliss binga yondé :;
+
+SOLDE_INSUFISANT=sa xaliss bi doyoul !

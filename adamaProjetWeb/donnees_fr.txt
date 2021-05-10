@@ -1,0 +1,48 @@
+MENU_PRINCIPAL=_______Sen Money_______
+1 : Solde du compte
+2 : Transfert d'argent
+3 : Paiement facture
+4 : Options;
+
+MENU_FACTURES=_______Paiement facture_______
+1 : Senelec
+2 : Seneau
+3 : Netflix
+4 : Canal+;
+
+MENU_OPTIONS=_______Options_______
+1 : Changer de code secret;
+
+DEMANDER_CODE=Entrez votre code :;
+
+DEMANDER_NUMERO_COMPTEUR=Votre numero de compteur :;
+
+DEMANDER_ACNCIEN_CODE=Votre ancien code :;
+
+DEMANDER_NOUVEAU_CODE=Nouveau code secret :;
+
+RETOURNER_AU_MENU_PRINCIPAL=Voulez-vous retourner au menu principal ?
+1:Pour revenir au menu principal
+0: Pour quitter;
+
+AU_REVOIR=Au revoir;
+
+VOTRE_SOLDE_EST=Votre solde est de :;
+
+VOTRE_NOUVEAU_CODE=Votre nouveau code secret est :;
+
+TRANSFERE_REUSSIE=Transfère effectué avec succés, nouveau solde :;
+
+PAIEMENT_REUSSI=Paiement effectué avec succés, Montant :;
+
+CODE_INCORRECT=Code incorrect !;
+
+CODE_INVALID=Code invalid !;
+
+NUMERO_EXISTE_PAS=Ce numéro n'existe pas !;
+
+NUMERO_DESTINATAIRE=Numero du destinataire :;
+
+MONTANT_TRANSFERE=Montant du transfere :;
+
+SOLDE_INSUFISANT=Votre solde est insufisant !

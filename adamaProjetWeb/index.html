@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sen Money</title>
+    <link rel="stylesheet" href="style.css" />
+    
+    <script src="jquery/jquery-3.3.1.min.js"></script>
+    
+    <script src="script2.js"></script>
+  </head>
+
+  <body >
+    
+    
+    
+    <div class="formContainer">
+
+      <div class="langueOption">
+        <select name="langue" id="langue">
+          <option value="donnees_fr.txt">Wo</option>
+          <option value="donnees_en.txt">En</option>
+          <option value="donnees_wo.txt">fr</option>
+        </select>
+      </div>
+      
+      <h1>Orange Money</h1>
+
+      <form name="form">
+        <select name="" id="num">
+          <script>
+            var txt = "";
+            for (let i = 0; i < tabNumeros[i]; i++) {
+              txt += "<option >" + tabNumeros[i] + "</option>";
+            }
+            document.write(txt);
+          </script>
+        </select>
+      </form>
+      <br />
+      <button onclick="main()">#221</button>
+    </div>
+  </body>
+</html>
